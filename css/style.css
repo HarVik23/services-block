@@ -184,15 +184,6 @@ box-sizing: border-box;
         }
    
         
-        /* .diving-img {    
-        width: 712px
-        }
-    
-         .fishing-img {     
-         width: 440px;}
-    
-         .sunbathing-img {  
-         width: 436px; */
          .item-services:first-child img {
             width: 712px;
         }
